@@ -1,0 +1,6 @@
+{
+  "Name": "Web_to_Database Project",
+  "ProjectType": "Process",
+  "Description": "Web automation, and storing information in Database",
+  "MainFile": "Main.xaml"
+}

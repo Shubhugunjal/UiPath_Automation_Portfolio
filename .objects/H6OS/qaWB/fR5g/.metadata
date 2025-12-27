@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Allinone  Web Scraper Test Sites",
+  "Type": "Screen",
+  "Id": "fR5gWKU-AUiVW_GBTdzDLg",
+  "Reference": "3EES_uPIIkqBPWjIV8GBzQ/fR5gWKU-AUiVW_GBTdzDLg",
+  "ParentRef": "3EES_uPIIkqBPWjIV8GBzQ/qaWB6NbUHkWYJoqDCSBs5g",
+  "Created": "2025-11-01T15:48:22.3775897Z",
+  "Updated": "2025-11-01T15:48:22.3775897Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
